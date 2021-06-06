@@ -1,7 +1,7 @@
 # Warner Media Data Science Assessment
-# MIT License LICENSE.txt 
+##### MIT License 
 
-## Contributor: Rutu Nanavati
+##### Contributor: Rutu Nanavati
 #### Requirements:
 Python 3
 joblib==1.0.1
