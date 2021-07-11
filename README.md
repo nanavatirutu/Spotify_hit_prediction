@@ -1,5 +1,5 @@
-# Warner Media Data Science Assessment
-# MIT License LICENSE.txt
+### Hit Song Predictor Spotify
+##### MIT License 
 
 ## Contributor: Rutu Nanavati
 #### Requirements:
@@ -23,9 +23,9 @@ threadpoolctl==2.1.0
 
 
 ### Notebook for EDA
-####  `Assessment.ipynb`
+####  `hit-song-prediction.ipynb`
 	* Input files: wm_project.csv
-	* Assessment.ipynb contains EDA and model training.
+	* hit-song-prediction.ipynb contains EDA and model training.
 	* Also contains some insights from the data
 
 ### Python Modules
@@ -48,7 +48,7 @@ threadpoolctl==2.1.0
   * install requirements
 	* Run `python main.py test_data.csv`
 		- we can replace `test_data.csv` with any other batch file to obtain prediction
-	* The same environment can be used to run the `Assessment.ipynb`
+	* The same environment can be used to run the `hit-song-prediction.ipynb`
 #### Next steps:
   * Research from initial insights to work on model improvement.
 	* Research and Test causation build Probabilistic model that would account for causation.
