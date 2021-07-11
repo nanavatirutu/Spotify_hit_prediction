@@ -1,7 +1,6 @@
 ### Hit Song Predictor Spotify
 ##### MIT License 
-
-## Contributor: Rutu Nanavati
+##### Contributor: Rutu Nanavati
 #### Requirements:
 Python 3
 joblib==1.0.1
